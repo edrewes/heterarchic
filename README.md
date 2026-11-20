@@ -2,15 +2,14 @@
 
 Heterarchic is an evidence-grounded research and design initiative for understanding how people govern together—and how institutions, technology, and AI can support legitimate, capable, and flourishing societies.
 
-We study historical and contemporary governance forms across cultures and scales; human–AI governance; institutional design; delegated authority; and technology-enabled coordination. We aim to publish research papers, design theories, practical playbooks, and reusable digital tools. We do not assume one governance model is universal, and we do not treat AI efficiency as an adequate measure of human progress.
+We study historical and contemporary governance forms across cultures and scales—including bounded, episodic self-governance in protest movements, occupations, strikes, mutual aid, and other collective-action settings—alongside human–AI governance, institutional design, delegated authority, and technology-enabled coordination. We aim to publish research papers, design theories, practical playbooks, and reusable digital tools. Our comparative scope includes both durable institutions and bounded, episodic self-governance. We do not assume one governance model is universal, and we do not treat AI efficiency as an adequate measure of human progress.
 
 ## Start here
 
 - [Charter](CHARTER.md): purpose, scope, principles, and limits.
 - [Research protocol](RESEARCH_PROTOCOL.md): evidence, comparative method, currency, and review.
 - [Coordination protocol](COORDINATION_PROTOCOL.md): repo-first collaboration, agent patches, human review, and chat boundaries (draft for review).
-- [Research map](RESEARCH_MAP.md): initial streams and learning agenda.
-- [Project naming brief](proposals/project-naming-brief.md): provisional naming criteria and comparative-research direction (proposal, not a selected name).
+- [Research map](RESEARCH_MAP.md): initial streams and learning agenda, including bounded and episodic self-governance.
 - [Source atlas](SOURCES.md): seed institutions, frameworks, and datasets (not an endorsement or complete bibliography).
 - [Skills](skills/README.md): portable, task-oriented research skills.
 - [Templates](templates/): research question, source record, and publication review.
