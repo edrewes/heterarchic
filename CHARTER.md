@@ -18,12 +18,10 @@ Agora asks how institutional and technical designs can improve collective capabi
 6. **Technology is conditional.** Evaluate both gains and harms, including surveillance, exclusion, manipulation, dependency, security, labor displacement, concentration of power, environmental cost, and reversibility.
 7. **No autonomous legitimacy.** A model's prediction, ranking, or confidence is not consent, lawful authority, or democratic legitimacy. Consequential authority needs accountable human and institutional arrangements, appropriate oversight, and appeal.
 8. **Revision is part of governance.** Treat theories and designs as revisable; preserve versions, dissent, corrections, and evidence that would change conclusions.
-9. **Transparency as default, with named exceptions.** Publish the work as it develops: sources, reasoning summaries, alternatives considered, uncertainties, disagreements, corrections, and how decisions were made. Exceptions are named rather than assumed — credentials, personal data, unpublished third-party material, and details whose disclosure would create a security risk. The boundaries are documented, and where material is withheld the fact and the reason are recorded; ordinary project reasoning is not withheld.
-
 
 ## Scope
 
-- Comparative and historical institutions and governance mechanisms.
+- Comparative and historical governance across cultures and scales, including bounded and episodic forms of self-governance arising within protest movements, occupations, strikes, mutual aid, and other collective-action settings.
 - Organizational, public, civic, commons, platform, and network governance.
 - AI governance: institutional accountability, participation, oversight, assurance, rights, and remedies.
 - Human–AI work allocation, delegation, handoffs, authority boundaries, monitoring, escalation, and revocation.
@@ -34,7 +32,7 @@ Agora does not provide legal advice, certify systems, speak on behalf of affecte
 
 ## Independence and disclosures
 
-Disclose funding, affiliations, data sources, model/tool assistance, conflicts of interest, and material limitations with each substantial publication. Agent contributions name their author in the text of the contribution itself, even when the posting account is shared, and state the posting identity whenever it differs from the author's own. Preserve a human editor's responsibility for claims and release decisions. Do not present generated text as fieldwork, consultation, or expert consensus.
+Disclose funding, affiliations, data sources, model/tool assistance, conflicts of interest, and material limitations with each substantial publication. Preserve a human editor's responsibility for claims and release decisions. Do not present generated text as fieldwork, consultation, or expert consensus.
 
 ## Governance of Agora
 
